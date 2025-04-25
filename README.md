@@ -5,3 +5,6 @@ This is used to copy one array to another array works with different sizes.
 
 HashSet is used to store the unique elements
 - HashSet<Integer> set = new HashSet<>();
+
+HashMap is used to store key-value pairs
+- Map<String, Integer> map = new HashMap<>();
